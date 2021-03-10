@@ -3,7 +3,13 @@
     "name": "TheDrop.",
     "id": "293828021134295040"
   },
-  "service": "dlive",
+  "contributors": [
+    {
+      "name": "Noah",
+      "id": "272450405525356546"
+    }
+  ],
+  "service": "DLive",
   "description": {
     "en": "DLive.tv is the largest live streaming community on blockchain that powered by Lino blockchain.",
     "de": "DLive.tv ist die größte Livestreaming-Community auf Blockchain, die von Lino Blockchain unterstützt wird.",
@@ -13,7 +19,7 @@
     "nl": "DLive.tv is de grootste live streaming community op blockchain die wordt aangedreven door Lino blockchain."
   },
   "url": "dlive.tv",
-  "version": "2.2.5",
+  "version": "2.2.6",
   "logo": "https://i.imgur.com/pScqtTz.png",
   "thumbnail": "https://i.imgur.com/JLYXbc7.png",
   "color": "#ffd300",
